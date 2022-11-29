@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/james-scott-alexander-508302239/",
             "memory": "Logging into Zoom the morning of Halloween and seeing Russ dressed up as a Rea-Life Super Mario. I will carry that memory with me forever. Bless you, Russ.",
             "email": "jsa.codes@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JamesScottPROF.png",
+            "funImg": "JamesScottFUN.jpeg"
         },
         {
             "id": 2,
@@ -23,7 +23,7 @@
             "linkedIn": "https://www.linkedin.com/in/nathenial-buckley/",
             "memory": "Not really fun at the time but thinking back it was an enjoyable experience of stressing over my front-end capstone trying to get it just right for demo.",
             "email": "nathenialbuckley98@gmail.com",
-            "proImg": "",
+            "proImg": "NatePROF.jpg",
             "funImg": ""
         },
         {
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/nickcasale-developer/",
             "memory": "The Exomine project will be one I never forget. We all hit out limits of stress that week but now looking back at it we all have a good laugh about it. ",
             "email": "Nicholas.e.casale@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "NicholasCasalePROF.jpg",
+            "funImg": "NicholasCasaleFUN.jpg"
         },
         {
             "id": 4,
@@ -47,10 +47,10 @@
             "bio": "I am a software developer that transitioned from 5 years of consumer sales to development. Technology has always been something I've been interested and fascinated by and now love as a skill set.",
             "github": "https://github.com/AChan118",
             "linkedIn": "https://www.linkedin.com/in/adamchance/",
-            "memory": "",
+            "memory": "My first attempt at a group project with Carly Dopps and The Serializer. We had a blast falling on our faces all week. To our surprise, we finished the week with a functional product. Had lots of fun with these guys and will cherish those memories forever.",
             "email": "adamchance118@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "AdamChancePROF.jpg",
+            "funImg": "AdamChanceFUN.jpg"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/faith-nichole-cox/",
             "memory": "I have so many wonderful memories from my time at NSS it is hard to pick just one. The most recent one that comes to mind is working on my first full-stack application with a fantastic group of people. Once we got comfortable with the GitHub processes we blew through our assigned tickets and did more than we planned in the sprint. Each person was a willing participant, active listener, and incredible support. It was a wonderful experience and they are a lovely group of developers.",
             "email": "fcox662@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "FaithCoxPROF.jpg",
+            "funImg": "FaithCoxFUN.jpg"
         },
         {
             "id": 6,
@@ -76,7 +76,7 @@
             "memory": "Literally any time I solve a problem that I've been stuck on for more than 30min.",
             "email": "marcus.cox92@gmail.com",
             "proImg": "",
-            "funImg": ""
+            "funImg": "MarcusCoxFUN.jpg"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "linkedIn": "https://www.linkedin.com/in/de-leon-amanda/",
             "memory": "Understanding coding memes for the first time and using them to describe the work week in the retros is always a good time.",
             "email": "deleon.amanda.c8@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "AmandaDeLeonPROF.jpeg",
+            "funImg": "AmandadeLeonFUN.jpeg"
         },
         {
             "id": 8,
@@ -101,8 +101,8 @@
             "linkedIn": "https://www.linkedin.com/in/carlydoppelheuer/",
             "memory": "Rewriting our Exomine project (what's up Brandon and Adam) after getting it to work with the completely wrong structure. It was the most complicated mistake we’d made yet was the week with the most laughs and one of the best weeks of the entire class!",
             "email": "carly.doppelheuer@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "CarlyNiebruggePROF.jpg",
+            "funImg": "CarlyNiebruggefun.JPG"
         },
         {
             "id": 9,
@@ -112,10 +112,10 @@
             "bio": "I'm a former IT Audit Consultant turned Software Developer and I'm thrilled to be making this career switch as I'm discovering that programming can be a lot of fun. Who knew? Outside of coding you can probably find me at the local pinball spot.",
             "github": "http://github.com/justindority",
             "linkedIn": "http://linkedin.com/in/justindority",
-            "memory": "",
+            "memory": "Meeting some teammates in person for the first time was a real treat. These people are not only smart developers, but also nice & fun! Hire them immediately @companies.",
             "email": "justindority@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JustinDorityPROF.jpeg",
+            "funImg": "JustinDorityFUN.png"
         },
         {
             "id": 10,
@@ -127,7 +127,7 @@
             "linkedIn": "https://www.linkedin.com/in/adam-featherston/",
             "memory": "Meeting several others at Hattie B's after getting head shot photo taken.",
             "email": "j.adam.featherston@gmail.com",
-            "proImg": "",
+            "proImg": "AdamFeatherstonPROF.jpg",
             "funImg": ""
         },
         {
@@ -140,8 +140,8 @@
             "linkedIn": "http://www.linkedin.com/in/kelly-francoeur",
             "memory": "Going to the tech night at Monday Night and getting to meet teammates in real life",
             "email": "kellyafrancoeur@gmaill.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "KellyFancoeurPROF.jpg",
+            "funImg": "Kelly FrancoeurFUN.jpg"
         },
         {
             "id": 12,
@@ -153,7 +153,7 @@
             "linkedIn": "https://www.linkedin.com/in/brandonherbison",
             "memory": "My first attempt at a group project with Carly Dopps and Adam C. We had a blast falling on our faces all week. To our surprise, we finished the week with a functional product. Had lots of fun with these guys and will cherish those memories forever.",
             "email": "herbisonbrandon@gmail.com",
-            "proImg": "",
+            "proImg": "BrandonHerbisonPROF.jpeg",
             "funImg": ""
         },
         {
@@ -166,8 +166,8 @@
             "linkedIn": "https://www.linkedin.com/in/shelby-joiner/",
             "memory": "'Did you save it?' becoming the most common saying in one particular css project! ",
             "email": "shelbyjjoiner@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ShelbyJoinerPROF.jpeg",
+            "funImg": "ShelbyJoinerFUN.jpeg"
         },
         {
             "id": 15,
@@ -179,8 +179,8 @@
             "linkedIn": "https://www.linkedin.com/in/lorin-jones/",
             "memory": "I spent the entire holiday week working normal lab hours with a couple of other students in a discord server in order to get my front end capstone perfect, presented it the following Monday, then promptly lost three crucial days of styling to a repo large file error.",
             "email": "lorin.jones@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "LorinJonesPROF.jpg",
+            "funImg": "LorinJonesFUN.heic"
         },
         {
             "id": 16,
@@ -192,7 +192,7 @@
             "linkedIn": "https://www.linkedin.com/in/nathan-malone-840ba4251/",
             "memory": "",
             "email": "nathanamalone@gmail.com",
-            "proImg": "",
+            "proImg": "NathanMalonePROF.jpg",
             "funImg": ""
         },
         {
@@ -205,8 +205,8 @@
             "linkedIn": "https://www.linkedin.com/in/matt-martino/",
             "memory": "The functions chapter.  The functions chapter was the first chapter that I really got straight away, and was a mental turning point in my head that gave me a lot of confidence in my skills and mostly my ability to learn.",
             "email": "mattmartino54@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "MattMartinoPROF.jpg",
+            "funImg": "MattMartinofun.jpg"
         },
         {
             "id": 18,
@@ -218,7 +218,7 @@
             "linkedIn": "https://www.linkedin.com/in/ameena-mashaikh/",
             "memory": "My favorite NSS memory is the day we presented our front-end capstones! It was exciting to see all of the websites everyone had created, I was very impressed!",
             "email": "ameenamashaikh@gmail.com",
-            "proImg": "",
+            "proImg": "AmeenaPROF.jpg",
             "funImg": ""
         },
         {
@@ -231,7 +231,7 @@
             "linkedIn": "http://www.linkedin.com/in/jeremynmyers",
             "memory": "During my first Group Project on Server-Side I got stuck trying to push one get-all function to github.  It was as if I was stuck in some sort of GitMaze (which doesn't exist).  So I'm pushing up this function up all week it seems (which works for me) and finally got approval to merge. Immediately I move on to other things and implement Client-Side features.  At the end of the week everything looked fine and the beginning of the following I open up GitHub and there it is...My unmerged code.  What?  How?  How embarrassing...right?  I create another pull request and label it Pull Request of Shame...  How about them apples.",
             "email": "echelonical@gmail.com",
-            "proImg": "",
+            "proImg": "JeremyMyersPROF.jpg",
             "funImg": ""
         },
         {
@@ -244,8 +244,8 @@
             "linkedIn": "https://www.linkedin.com/in/grace-parce-bba98b248/",
             "memory": "Meeting everyone in person for the first time and being surprised by how tall people are...especially Russ. ",
             "email": "graceehparce@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "GracieParcePROF.jpg",
+            "funImg": "GracieParceFUN.JPG"
         },
         {
             "id": 21,
@@ -255,10 +255,10 @@
             "bio": "Father | Husband | Software Developer | Veteran",
             "github": "https://github.com/swparks040",
             "linkedIn": "https://www.linkedin.com/in/scottwparks/",
-            "memory": "",
+            "memory": "When our class presented their front-end cpastone projects, I remember feeling so proud of everyone's accomplishments. To know that many of us never used a terminal prior to class then presenting unique, viable products 12 weeks later was incredible.",
             "email": "scottwparks@icloud.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ScottParksPROF.jpg",
+            "funImg": "ScottParksFUN.JPG"
         },
         {
             "id": 22,
@@ -270,8 +270,8 @@
             "linkedIn": "https://www.linkedin.com/in/russell-pelton/",
             "memory": "Going to a local tech meetup with several of my classmates, and seeing them for the first time in person. ",
             "email": "crpelton@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "RussPeltonPROF.jpg",
+            "funImg": "RussPeltonFUN.jpg"
         },
         {
             "id": 23,
@@ -283,8 +283,8 @@
             "linkedIn": "https://www.linkedin.com/in/seforarodriguez/",
             "memory": "Steve going in yelling Shark Attack! or Coach using the ominous zoom voice and everyone going crazy trying to find him in the zoom call :D",
             "email": "seforarodriguez13@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "SeforaRodriguezPROF.jpeg",
+            "funImg": "SeforaRodriguezFUN.jpeg"
         },
         {
             "id": 24,
@@ -296,7 +296,7 @@
             "linkedIn": "https://www.linkedin.com/in/mckenzie-rondeau-424814243/",
             "memory": "When Steve liked Amanda's idea and it started the group awards given out by James. ",
             "email": "mckenzierondeau@gmail.com",
-            "proImg": "",
+            "proImg": "Mckenzie - Mckenzie Rondeau.png",
             "funImg": ""
         },
         {
@@ -309,7 +309,7 @@
             "linkedIn": "https://www.linkedin.com/in/shane-standifur/",
             "memory": "When Steve liked Amanda's idea and it started the group awards given out by James. ",
             "email": "shanestandifur@gmail.com",
-            "proImg": "",
+            "proImg": "ShaneStandifurPROF.jpg",
             "funImg": ""
         },
         {
@@ -322,8 +322,8 @@
             "linkedIn": "http://www.linkedin.com/in/nora-szeto",
             "memory": "Getting so engrossed into the Exomine group project that we all forgot to eat lunch! ",
             "email": "neszeto@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "NoraSzetoPROF.jpg",
+            "funImg": "NoraSzetoFUN.jpg"
         },
         {
             "id": 27,
@@ -335,8 +335,8 @@
             "linkedIn": "",
             "memory": "Working with teammates through capstones!",
             "email": "jvw.226@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JonathanWoodardPROF.jpeg",
+            "funImg": "JonathanWoodwardFUN.jpg"
         }
     ]
 }
