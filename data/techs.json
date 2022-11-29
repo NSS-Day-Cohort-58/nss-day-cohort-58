@@ -69,13 +69,13 @@
         {
             "id": 12,
             "name": "Figma",
-            "image": "eslint.png",
+            "image": "figma-logo.png",
             "link": "https://www.figma.com/"
         },
         {
             "id": 13,
             "name": "Dbdiagram",
-            "image": "eslint.png",
+            "image": "dbdiagram.png",
             "link": "https://dbdiagram.io/home"
         }
     ]
