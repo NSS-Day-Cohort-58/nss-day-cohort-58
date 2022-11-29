@@ -15,10 +15,10 @@ function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
     let studentContact = `<div class="studentContact">`
-    //if student doesn't have a portfolio site then don't display the icon
-    if (item.portfolio != null) {
+    //if student doesn't have a memory site then don't display the icon
+    if (item.memory != null) {
 
-      studentContact += `<a href=${item.portfolio} target="_blank">
+      studentContact += `<a href=${item.memory} target="_blank">
       <i class="fas fa-globe fa-2x contactIcons"></i>
       </a>`
     }
